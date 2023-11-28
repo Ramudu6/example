@@ -2,6 +2,7 @@
 int main()
 {
   int i,j,space,k=o,n;
+  printf("this is code for pattern ")
   printf("\nenter the number of rows : ");
   scanf("%d",&n);
   for(int i=1;i<=n;i++)
