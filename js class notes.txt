@@ -1,0 +1,25 @@
+to create a class in the javascript we weill use a keyword called "class"
+syntax for creating class in javascript
+
+class class_name
+{
+  declare the data
+  
+}
+
+
+
+syntax for constructor in js
+ 
+  in js they are 2 types 1.default constutor
+                         2.parameter constructor
+   
+in js we use constructor keyword is used in js to create constructor
+
+
+yeah next
+
+
+
+
+
